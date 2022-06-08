@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vikas-Waghmare
-- 👀 I’m interested in Data Analyst and Business Analyst
-- 🌱 I’m currently learning Data Analyst
+- 👀 I’m interested in Data Analystics and Business Analystics
+- 🌱 I’m currently learning Data Analystics
 
 
 <!---
